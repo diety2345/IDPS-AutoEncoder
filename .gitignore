@@ -1,0 +1,24 @@
+# Virtual environment
+ms_env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.ckpt
+*.h5
+*.pth
+
+# Numpy arrays
+*.npy
+
+# Database
+*.db
+
+# Datasets
+datasets/
+
+# OS files
+.DS_Store
